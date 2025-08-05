@@ -73,4 +73,4 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 ---
 
 **Author:** [Catherine Ourique](https://www.linkedin.com/in/catherineourique)  
-Also contributed by: Catherine, AKOFI
+Also contributed by: Catherine Rocha, AKOFI
